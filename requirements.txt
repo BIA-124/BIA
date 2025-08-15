@@ -6,12 +6,14 @@ colorama==0.4.6
 et_xmlfile==2.0.0
 Flask==3.1.0
 flask-cors==5.0.1
+gunicorn==23.0.0
 idna==3.10
 itsdangerous==2.2.0
 Jinja2==3.1.4
 MarkupSafe==3.0.2
 numpy==2.2.0
 openpyxl==3.1.5
+packaging==25.0
 pandas==2.2.3
 pdfkit==1.0.0
 python-dateutil==2.9.0.post0
